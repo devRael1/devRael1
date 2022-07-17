@@ -19,7 +19,7 @@
 
 
 <!-- Technologies & Tools  -->
-<h2 align="left">🛠️ Technologies and Tools I use:</h2>
+## 🛠️ Technologies and Tools I use:
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -39,14 +39,12 @@
 </p>
 
 <!-- About me  -->
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+## 👨🏻‍💻 About Me:
 * 💻 I'm currently working on Discord JS Bot
 * 🚀 Always ready to collaborate for Dev Experiments
 * 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 * ⚡ I like the development as much as the network
----
+
+
 <!-- Outro  -->
-<div align="center" style="font-size: 19px;">
-════ ⋆★⋆ ════ <br>
-"Happy Coding👨‍💻 !"
-</div>
+## ═══════════ ⋆★⋆ ═══════════
