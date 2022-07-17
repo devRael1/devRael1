@@ -3,7 +3,7 @@
 
 <!-- Intro  -->
 <div align="center">
-<h2> > Hey <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> ! <img src="https://github.com/devRael1/devRael1/blob/master/gifs/Hi.gif" width="30"></h2>
+<h2> > Hey <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> ! <img src="https://github.com/devRael1/devRael1/blob/main/gifs/Hi.gif?raw=true" width="30"></h2>
 </div>
 
 <!-- Github Stats  -->
