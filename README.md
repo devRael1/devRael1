@@ -40,10 +40,10 @@
 
 <!-- About me  -->
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-- 💻 I'm currently working on Discord JS Bot
-- 🚀 Always ready to collaborate for Dev Experiments
-- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
-- ⚡ I like the development as much as the network
+* 💻 I'm currently working on Discord JS Bot
+* 🚀 Always ready to collaborate for Dev Experiments
+* 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+* ⚡ I like the development as much as the network
 ---
 <!-- Outro  -->
 <div align="center" style="font-size: 19px;">
