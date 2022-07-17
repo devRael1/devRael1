@@ -11,9 +11,12 @@
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=devRael1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devRael1's Github Stats">
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRael1&layout=compact&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=devRael1&theme=tokyonight" alt="devRael1" />
+<details>
+<summary>More Details...</summary>
+<img src="https://raw.githubusercontent.com/devRael1/devRael1/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="devRael1">
+</details>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devRael1&theme=tokyonight)
 
 <!-- Technologies & Tools  -->
 <h2 align="left">🛠️ Technologies and Tools I use:</h2>
