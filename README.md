@@ -45,6 +45,10 @@
 * 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 * ⚡ I like the development as much as the network
 
+---
 
 <!-- Outro  -->
-## ═══════════ ⋆★⋆ ═══════════
+<div align="center">
+═════════════════ ⋆★⋆ ═════════════════<br />
+<p>"Happy Coding👨‍💻 !"</p>
+</div>
