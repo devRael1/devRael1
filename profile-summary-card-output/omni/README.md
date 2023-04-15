@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/devRael1/devRael1/main/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
